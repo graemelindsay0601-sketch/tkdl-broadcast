@@ -1,0 +1,11 @@
+playerId,playerName,careerWins,careerLosses,careerGames,highestElo,careerPoints
+P002,Sean,13,2,15,1105,40
+P003,Richard,12,8,20,1060,26
+P006,Cavan,9,5,14,1008,4
+P007,Kyle,2,7,9,1000,0
+P001,Graeme,10,7,17,1002,8
+P004,Ryan,5,7,12,1000,-10
+P005,Robert,9,3,12,1002,16
+P008,Ronald Augustine,3,8,11,1000,-15
+P010,Cameron,0,1,1,1000,-5
+P009,Jamie,0,2,2,1000,-25
